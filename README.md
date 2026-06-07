@@ -8,4 +8,4 @@ Bu projede 129 KB boyutundaki firmware imajı, kısıtlı hafıza (RAM) kapasite
 * **Alınan Önlem (Kayıp Paket Kontrolü):** Ağ üzerinde veri kayıplarını önlemek için **Stop-and-Wait (Dur ve Bekle)** algoritması kodlanmıştır. Gönderici düğüm, alıcıdan ACK (teslim onayı) gelmeden bir sonraki pakete geçmez. Bu sayede yüzde yüz güvenilir bir aktarım sağlanmıştır.
 
 ## YouTube Video Linki
-[VİDEO LİNKİNİ BURAYA YAPIŞTIRIN]
+[https://www.youtube.com/watch?v=uMPppbobtyw]
